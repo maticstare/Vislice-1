@@ -1,5 +1,3 @@
 # Vislice
 
-Borut Pahor
-Matija Pretnar
-Ivan Vidav
+Progam za igro vislice.
